@@ -7,7 +7,7 @@ Calculates best time to craft a given item.
 
 If moon says 25% or 75% it means that percentage or HIGHER.
 
-This calculator assums you are always standing in NQ direction for the +.5 skill.
+This calculator assumes you are always standing in NQ direction for the +.5 skill.
 
 To use the addon type //cc skill difficulty
 
