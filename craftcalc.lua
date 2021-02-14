@@ -102,7 +102,7 @@ windower.register_event('addon command', function (...)
 	arr = split(command, ' ')
 	best_outcome = best_case(tonumber(arr[1]),tonumber(arr[2]))
 	windower.add_to_chat(55, 'HQ Odds: '..best_outcome[1]..' Moon Phase: '..best_outcome[2]..' Day Affinity: '..best_outcome[3])
-
+    windower.add_to_chat(55, 'ALWAYS STAND IN NQ DIRECTION FOR .5 SKILL')
 
 
 
